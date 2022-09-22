@@ -1,7 +1,9 @@
 # CSA0373 - Data Structures
 
 ⦁	Write a C program to perform Matrix Multiplication
+
 ⦁	Write a C program to find Odd or Even number from a given set of numbers
+
 ⦁	Write a C program to find Factorial of a given number without using Recursion
 ⦁	Write a C program to find Fibonacci series without using Recursion
 ⦁	Write a C program to find Factorial of a given number using Recursion
